@@ -1,0 +1,7 @@
+[Inputs]
+en
+clk
+=d[7:0]=
+[Outputs]
+=q[7:0]=
+[BiDir]

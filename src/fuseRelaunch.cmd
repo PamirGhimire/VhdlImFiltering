@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/tb_dffChain_isim_beh.exe" -prj "/home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/tb_dffChain_beh.prj" "work.tb_dffChain" 

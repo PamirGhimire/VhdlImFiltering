@@ -1,0 +1,35 @@
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -prj fifo -o /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.vhi -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work ipcore_dir/fifo_jd.vhd -lib work dGenFlipFlop.vhd -lib work DffChain.vhd 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 
+vhdtdtfi -lib work dGenFlipFlop.vhd -lib work DffChain.vhd -prj fifo -o DffChain.spl -module DffChain -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 DffChain.spl /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/DffChain.sym 

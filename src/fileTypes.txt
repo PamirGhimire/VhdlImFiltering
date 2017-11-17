@@ -1,0 +1,6 @@
+ngc	netfile, xilinx proprietery format
+vhd	vhdl file
+xco	core generator file
+ucf	constraints generated when a core is elaborated
+coe	coefficients file, for generated core
+

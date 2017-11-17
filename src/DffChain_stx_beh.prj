@@ -1,0 +1,3 @@
+vhdl isim_temp "ipcore_dir/fifo_jd.vhd"
+vhdl isim_temp "dGenFlipFlop.vhd"
+vhdl isim_temp "DffChain.vhd"

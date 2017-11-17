@@ -1,0 +1,29 @@
+Command line:
+   DffChain_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  45508
+
+Fri Nov 17 14:24:49 2017
+
+
+ Elaboration Time: 0.03 sec
+
+ Current Memory Usage: 211.886 Meg
+
+ Total Signals          : 1094
+ Total Nets             : 19446
+ Total Signal Drivers   : 421
+ Total Blocks           : 76
+ Total Primitive Blocks : 45
+ Total Processes        : 188
+ Total Traceable Variables  : 657
+ Total Scalar Nets and Variables : 20705
+Total Line Count : 381
+
+ Total Simulation Time: 0.08 sec
+
+ Current Memory Usage: 287.388 Meg
+
+Fri Nov 17 14:25:49 2017
+

@@ -1,0 +1,4 @@
+vhdl work "ipcore_dir/fifo_jd.vhd"
+vhdl work "dGenFlipFlop.vhd"
+vhdl work "DffChain.vhd"
+vhdl work "tb_dffChain.vhd"
