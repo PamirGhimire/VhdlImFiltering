@@ -11,6 +11,17 @@ Time resolution is 1 ps
 # run 1000 ns
 Simulator is doing circuit initialization process.
 Finished circuit initialization process.
+# run 0.1us
 # run all
-Stopped at time : 527340425 ns : File "/home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/dGenFlipFlop.vhd" Line 18
-# exit 0
+# run all
+# run all
+# run all
+# run all
+# run all
+# run all
+# run 1us
+# run all
+# restart
+# run all
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.

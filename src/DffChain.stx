@@ -5,14 +5,14 @@ Parameter TMPDIR set to /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsi
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.04 secs
+Total CPU time to Xst completion: 0.05 secs
  
 --> 
 Parameter xsthdpdir set to /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/xst
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.04 secs
+Total CPU time to Xst completion: 0.05 secs
  
 --> 
 Reading design: DffChain.prj
@@ -54,12 +54,12 @@ Parsing architecture <dffchain_arch> of entity <dffchain>.
 
 
 Total REAL time to Xst completion: 5.00 secs
-Total CPU time to Xst completion: 4.58 secs
+Total CPU time to Xst completion: 5.32 secs
  
 --> 
 
 
-Total memory usage is 341028 kilobytes
+Total memory usage is 341032 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :    0 (   0 filtered)

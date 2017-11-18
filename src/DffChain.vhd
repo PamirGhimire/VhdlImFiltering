@@ -74,6 +74,9 @@ f31 : dGenFlipFlop generic map (busWidth => 8) port map(d => temp(7), en => en, 
 f32 : dGenFlipFlop generic map (busWidth => 8) port map(d => temp(8), en => en, clk => clk, q => temp(9));
 f33 : dGenFlipFlop generic map (busWidth => 8) port map(d => temp(9), en => en, clk => clk, q => temp(10));
 
+-- get output from temp buffer
+getOut : q <= temp(10);
+
 
 
 end dffchain_arch;

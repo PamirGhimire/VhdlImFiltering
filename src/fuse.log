@@ -9,11 +9,13 @@ Parsing VHDL file "/home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhd
 Parsing VHDL file "/home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/tb_dffChain.vhd" into library work
 Starting static elaboration
 Completed static elaboration
-Fuse Memory Usage: 101984 KB
-Fuse CPU Usage: 1110 ms
+Fuse Memory Usage: 102504 KB
+Fuse CPU Usage: 1170 ms
 Compiling package standard
 Compiling package std_logic_1164
 Compiling package numeric_std
+Compiling package textio
+Compiling package std_logic_textio
 Compiling architecture arch of entity dGenFlipFlop [\dGenFlipFlop(8)\]
 Compiling package std_logic_arith
 Compiling package std_logic_unsigned
@@ -24,8 +26,9 @@ Compiling architecture fifo_jd_a of entity fifo_jd [fifo_jd_default]
 Compiling architecture dffchain_arch of entity DffChain [\DffChain(8)\]
 Compiling architecture behavior of entity tb_dffchain
 Time Resolution for simulation is 1ps.
-Compiled 18 VHDL Units
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 20 VHDL Units
 Built simulation executable /home/pamir/Desktop/vhdl_MSCV_M2/projects/imFilteringUsingVhdl/tb_dffChain_isim_beh.exe
-Fuse Memory Usage: 677680 KB
-Fuse CPU Usage: 1260 ms
-GCC CPU Usage: 700 ms
+Fuse Memory Usage: 682312 KB
+Fuse CPU Usage: 1340 ms
+GCC CPU Usage: 740 ms
